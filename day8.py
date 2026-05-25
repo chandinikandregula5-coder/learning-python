@@ -78,12 +78,3 @@ for i in range(1,10):
 while is ----> for + if
 while is a combination of for and if
 the loop runs until condition is met or satisfy
-
-      
-  
-
-
-
-
-
-
